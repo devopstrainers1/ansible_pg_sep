@@ -1,0 +1,9 @@
+[webserver]
+localhost
+#172.31.29.163 ansible_ssh_user=saranigo86gmail ansible_ssh_pass='6gmail0A@f7e5w'
+
+[webserver:vars]
+ansible_ssh_user=ajaycshotmail
+ansible_ssh_pass='otmail0A@pclve'
+ansible_port=42006
+ansible_connection=ssh
